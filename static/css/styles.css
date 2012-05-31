@@ -1,0 +1,24 @@
+body {
+    margin-top: 2em;
+    color: black;
+}
+.header-blocks {
+    margin-bottom: 2em;
+}
+.header-blocks div {
+    color: black;
+    border: 8px solid red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+    line-height: 1em;
+    padding: .3em .5em;
+}
+.header-blocks div:last-child {
+    color: red;
+    border-color: black;
+}
+.logo {
+    text-align: center;
+    font-weight: bold;
+}

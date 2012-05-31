@@ -1,24 +1,43 @@
 body {
-    margin-top: 2em;
     color: black;
 }
-.header-blocks {
-    margin-bottom: 2em;
-}
-.header-blocks div {
-    color: black;
-    border: 8px solid red;
-    text-align: center;
-    font-weight: bold;
-    font-size: 3em;
-    line-height: 1em;
-    padding: .3em .5em;
-}
-.header-blocks div:last-child {
-    color: red;
-    border-color: black;
+.header-titles {
+    margin: 1em 0;
 }
 .logo {
     text-align: center;
     font-weight: bold;
+}
+.header-blackline {
+    background-color: black;
+    color: white;
+    padding: 0 1em;
+    margin-bottom: 2em;
+}
+h1 {
+    font-size: 4em;
+    line-height: 1em;
+    border-bottom: 5px solid red;
+    margin-bottom: .5em;
+}
+.content p {
+    font-size: 1.2em;
+    line-height: 1.5em;
+    font-family: Georgia, serif;
+}
+.content p:first-letter {
+    float: left;
+    font-size: 3em;
+    margin-right: 0.1em;
+    vertical-align: bottom;
+    font-weight: bold;
+}
+.content p span {
+    font-variant: small-caps;
+}
+.content h2 {
+    font-family: Georgia, serif;
+}
+.content img {
+    border: 4px solid red;
 }

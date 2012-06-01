@@ -33,11 +33,12 @@ body {
     text-align: justify;
     font-family: Georgia, serif;
 }
-.content .center p:first-letter {
-    font-weight: bold;
-}
 .content .center p span {
     font-variant: small-caps;
+}
+.content .center p:first-letter {
+    font-weight: bold;
+    font-variant: inherit;
 }
 h2 {
     font-family: Georgia, serif;

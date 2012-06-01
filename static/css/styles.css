@@ -52,8 +52,6 @@ h2 {
     border: 3px solid red;
 }
 .sidebar {
-    border: 3px solid red;
-    padding: .2em .5em;
 }
 .sidebar p {
     font-size: 16px;
@@ -75,4 +73,10 @@ body .container-fluid footer p {
     line-height: 18px;
     text-transform: uppercase;
     text-align: justify;
+}
+@media (max-width: 767px) {
+    h2 {
+        border-bottom: 3px solid red;
+        margin-bottom: 1em;
+    }
 }

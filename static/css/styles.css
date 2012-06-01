@@ -29,7 +29,7 @@ body {
     margin-right: 0.1em;
     font-weight: bold;
 }
-.content p span {
+.content .center p span {
     font-variant: small-caps;
 }
 .content h2 {
@@ -38,6 +38,16 @@ body {
 .content img {
     border: 3px solid red;
 }
-.sidebar img {
+.sidebar {
+    border: 3px solid red;
+    padding: .2em .5em;
+}
+.sidebar p {
+    font-size: 16px;
+}
+.sidebar p.vcard {
+    line-height: 24px;
+}
+.nav-sidebar img {
     margin-bottom: 1em;
 }

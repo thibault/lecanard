@@ -14,6 +14,17 @@ body {
     padding: 0 1em;
     margin-bottom: 2em;
 }
+.header-blackline .menu {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+}
+.header-blackline .menu li {
+    display: inline;
+}
+.header-blackline .menu li a {
+    color: white;
+}
 .content .center h2 {
     border-bottom: 3px solid red;
     margin-bottom: 1em;
@@ -34,6 +45,11 @@ body {
 }
 h2 {
     font-family: Georgia, serif;
+}
+.nav-sidebar h2,
+.sidebar h2 {
+    font-size: 20px;
+    line-height: 30px;
 }
 .content img {
     border: 3px solid red;

@@ -12,4 +12,7 @@ les performances… Bref ! La page du « Canard » fleure bon la home-page per
 l'injustice, peut-on se contenter d'une épée en mousse ?
 
 Je me suis toujours dit que refaire cette page serait un exercice pratique et amusant.
-Une après-midi de libre, et hop ! Voilà le résultat.
+Une après-midi de libre, et hop ! [Voilà le résultat](http://thibault.github.com/lecanard/).
+
+La page est hébergée par github, et directement branchée sur le dépôt. N'hésitez-donc
+pas à participer et à soumettre vos pull-requests.

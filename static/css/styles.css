@@ -32,7 +32,7 @@ body {
 .content .center p span {
     font-variant: small-caps;
 }
-.content h2 {
+h2 {
     font-family: Georgia, serif;
 }
 .content img {
@@ -50,4 +50,16 @@ body {
 }
 .nav-sidebar img {
     margin-bottom: 1em;
+}
+body .container-fluid footer {
+    border-top: 24px solid black;
+    margin-top: 2em;
+    padding-top: 1em;
+}
+body .container-fluid footer,
+body .container-fluid footer p {
+    font-size: 12px;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-align: justify;
 }

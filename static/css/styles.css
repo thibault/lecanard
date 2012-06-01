@@ -34,10 +34,6 @@ body {
     font-family: Georgia, serif;
 }
 .content .center p:first-letter {
-    float: left;
-    display: block;
-    font-size: 68px;
-    margin-right: 0.1em;
     font-weight: bold;
 }
 .content .center p span {

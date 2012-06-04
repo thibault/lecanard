@@ -26,7 +26,7 @@ body {
 .header-blackline .menu li a {
     color: white;
 }
-.content .center h2 {
+.content .center h1 {
     border-bottom: 3px solid red;
     margin-bottom: 1em;
 }
@@ -41,7 +41,7 @@ body {
     font-weight: bold;
     font-variant: inherit;
 }
-h2 {
+h1, h2 {
     font-family: Georgia, serif;
 }
 .nav-sidebar h2,

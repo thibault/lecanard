@@ -13,6 +13,7 @@ body {
     color: white;
     padding: 0 1em;
     margin-bottom: 2em;
+    font-size: 16px;
 }
 .header-blackline .menu {
     display: inline;
@@ -77,6 +78,6 @@ body .container-fluid footer p {
 @media (max-width: 767px) {
     h2 {
         border-bottom: 3px solid red;
-        margin-bottom: 1em;
+        margin-bottom: .5em;
     }
 }

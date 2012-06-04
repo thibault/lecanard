@@ -26,9 +26,10 @@ body {
 .header-blackline .menu li a {
     color: white;
 }
-.content .center h1 {
+.content .center h1,
+.content .center h2 {
     border-bottom: 3px solid red;
-    margin-bottom: 1em;
+    margin-bottom: .5em;
 }
 .content .center p {
     text-align: justify;
@@ -74,6 +75,12 @@ body .container-fluid footer p {
     line-height: 18px;
     text-transform: uppercase;
     text-align: justify;
+}
+.subscription h2 {
+    font-size: 20px;
+}
+.subscription ul {
+    font-size: 16px;
 }
 @media (max-width: 767px) {
     h2 {

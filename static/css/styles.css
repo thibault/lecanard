@@ -81,3 +81,8 @@ body .container-fluid footer p {
         margin-bottom: .5em;
     }
 }
+@media (max-width: 480px) {
+    p {
+        font-size: 16px;
+    }
+}
